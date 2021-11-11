@@ -1,4 +1,4 @@
-# module-library
+# library
 
 ## Project setup
 ```
